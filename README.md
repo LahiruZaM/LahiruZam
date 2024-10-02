@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working as a **Fullstack Developer**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Rust, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/LahiruZam/LahiruZam/issues)**
+💬 Ask me about **Nextjs, React, Firebase... or anything [here](https://github.com/LahiruZam/LahiruZam/issues)**
 
 ⚡ Fun fact **Code comments are just love notes to your future self.**
 
