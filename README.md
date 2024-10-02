@@ -1,9 +1,12 @@
-[![MasterHead](https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lahiru D.</h1>
 <h3 align="center">SE Undergratuate</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiruzam&label=Profile%20views&color=0e75b6&style=flat" alt="lahiruzam" /> </p>
+
+- 🌱 I’m currently learning **Angular , Rust**
+
+- 💬 Ask me about **NextJs , Prisma**
 
 - 📫 How to reach me **sampath.hru@gmail.com**
 
