@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LahiruZam.LahiruZam" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=36F715&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Lahiru+%F0%9F%98%89;Welcome+to+my+profile!;Fullstack+Developer;+UI%2FUX+Designer;Ready+for+any+challenge!" />
@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="sampath.hru@gmail.com">
+  <a href="mailto:sampath.hru@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/lahiru-sampath-482260255" target="_blank">
